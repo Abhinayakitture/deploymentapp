@@ -24,4 +24,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: tenet00/testforactions:latest
+        tags: abhiksha1907/abhinayakitture:latest
